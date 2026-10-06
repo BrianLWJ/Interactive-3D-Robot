@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThisPc\\Desktop\\GP Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20407810-DBF0-46FE-A342-3541EEF03784}|GP Assignment\\GP Assignment.vcxproj|C:\\Users\\ThisPc\\Desktop\\GP Assignment\\GP Assignment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20407810-DBF0-46FE-A342-3541EEF03784}|GP Assignment\\GP Assignment.vcxproj|solutionrelative:GP Assignment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ThisPc\\Desktop\\GP Assignment\\GP Assignment\\main.cpp",
+              "RelativeDocumentMoniker": "GP Assignment\\main.cpp",
+              "ToolTip": "C:\\Users\\ThisPc\\Desktop\\GP Assignment\\GP Assignment\\main.cpp",
+              "RelativeToolTip": "GP Assignment\\main.cpp",
+              "ViewState": "AgIAAKcGAAAAAAAAAAAqwLQGAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T00:02:25.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
